@@ -7,7 +7,6 @@ const links = [
   { label: 'Services', href: '#services' },
   { label: 'Skills', href: '#skills' },
   { label: 'Projects', href: '#projects' },
-  { label: 'Contact', href: '#contact' },
 ]
 
 const scrolled = ref(false)
@@ -40,11 +39,10 @@ const close = () => (open.value = false)
           >{{ l.label }}</a
         >
         <a
-          href="./files/Al_Mausisa.pdf"
-          download
+          href="#contact"
           class="btn btn-primary nav__cv"
           @click="close"
-          >Download CV</a
+          >Contact</a
         >
       </nav>
 

@@ -53,9 +53,6 @@ const channels = [
         <a href="mailto:lalar317@gmail.com" class="btn btn-primary"
           >Say Hello 👋</a
         >
-        <a href="./files/Al_Mausisa.pdf" download class="btn btn-ghost"
-          >Download CV</a
-        >
       </div>
     </div>
   </section>

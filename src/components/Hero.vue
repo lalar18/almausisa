@@ -44,10 +44,16 @@ onUnmounted(() => clearTimeout(timer))
           ><span class="hero__caret">|</span>
         </h1>
         <p class="hero__lead">
-          A passionate full-stack web developer with 5+ years of experience,
-          specializing in PHP frameworks like Laravel, CodeIgniter and CakePHP —
-          building dynamic, database-driven applications with clean, scalable
-          back-ends.
+          AI Web Developer with 5+ years of hands-on experience building and
+          maintaining web applications using Laravel, PHP, MySQL, JavaScript, and
+          modern web technologies. Strong foundation in backend development, API
+          integration, database management, and application performance
+          optimization. Experienced in leveraging AI-assisted development tools
+          such as Claude, ChatGPT, GitHub Copilot, and Claude Code to accelerate
+          development, debugging, troubleshooting, code refactoring, and
+          problem-solving. Currently focused on integrating AI technologies into
+          web applications and development workflows while maintaining clean,
+          maintainable, and efficient code.
         </p>
         <div class="hero__actions">
           <a href="#projects" class="btn btn-primary">View My Work</a>
